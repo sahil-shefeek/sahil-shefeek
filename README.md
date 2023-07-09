@@ -18,4 +18,4 @@
 
 ## Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil-shefeek&show_icons=true&theme=dark)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil-shefeek&show_icons=true&theme=dark)](https://github.com/sahil-shefeek)
