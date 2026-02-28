@@ -44,7 +44,3 @@ I'm a self-taught developer and student
 ## I'm Open for Collaboration
 
 My commitment to excellence ensures every project is delivered with precision and professionalism. Let's collaborate to bring your ideas to life. Feel free to reach out to me via [email](mailto:sahilms345@gmail.com) or [LinkedIn](www.linkedin.com/in/sahil-shefeek).
-
-## Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil-shefeek&show_icons=true&theme=dark)](https://github.com/sahil-shefeek)
